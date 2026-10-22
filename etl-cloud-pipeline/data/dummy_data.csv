@@ -1,0 +1,51 @@
+transaction_id,date,customer_name,amount,currency,region
+TXN1001,2026-01-05,Acme Corp,1250.50,USD,North America
+TXN1002,2026-01-06,Global Logistics,3400.00,EUR,Europe
+TXN1003,2026-01-07,Apex Solutions,890.75,USD,North America
+TXN1004,2026-01-08,Nippon Tech,450000.00,JPY,Asia-Pacific
+TXN1005,2026-01-09,Vanguard Ltd,2100.20,GBP,Europe
+TXN1006,2026-01-10,Summit Trading,1575.00,CAD,North America
+TXN1007,2026-01-11,Rio Dynamics,6800.00,USD,Latin America
+TXN1008,2026-01-12,Euro Retail Group,4200.50,EUR,Europe
+TXN1009,2026-01-13,Pacific Enterprise,9500.00,USD,Asia-Pacific
+TXN1010,2026-01-14,Nordic Systems,3100.80,EUR,Europe
+TXN1011,2026-01-15,Atlas Energy,14500.00,USD,North America
+TXN1012,2026-01-16,Kyoto Innovation,620000.00,JPY,Asia-Pacific
+TXN1013,2026-01-17,Thames Holdings,5400.30,GBP,Europe
+TXN1014,2026-01-18,Maple Leaf Co,2900.00,CAD,North America
+TXN1015,2026-01-19,Sao Paulo Ventures,7300.25,USD,Latin America
+TXN1016,2026-01-20,Horizon Media,1850.00,USD,North America
+TXN1017,2026-01-21,Berlin Automations,9800.00,EUR,Europe
+TXN1018,2026-01-22,Singapore Global,11200.40,USD,Asia-Pacific
+TXN1019,2026-01-23,Highland Corp,3600.00,GBP,Europe
+TXN1020,2026-01-24,Delta Logistics,4750.90,USD,North America
+TXN1021,2026-01-25,Tokyo Electronics,380000.00,JPY,Asia-Pacific
+TXN1022,2026-01-26,Iberian Commerce,5100.00,EUR,Europe
+TXN1023,2026-01-27,Andes Mineral Co,8900.00,USD,Latin America
+TXN1024,2026-01-28,Great Lakes Dist,2300.75,CAD,North America
+TXN1025,2026-01-29,London Financial,15000.00,GBP,Europe
+TXN1026,2026-01-30,Nexus Software,7800.50,USD,North America
+TXN1027,2026-01-31,Alpine Medical,6400.00,EUR,Europe
+TXN1028,2026-02-01,Osaka Robotics,790000.00,JPY,Asia-Pacific
+TXN1029,2026-02-02,Caribbean Imports,3250.00,USD,Latin America
+TXN1030,2026-02-03,Sterling Industries,4100.60,GBP,Europe
+TXN1031,2026-02-04,Prairie Grain Co,1950.00,CAD,North America
+TXN1032,2026-02-05,Vanguard Ltd,8400.00,USD,Europe
+TXN1033,2026-02-06,Seoul Tech Works,13500.00,USD,Asia-Pacific
+TXN1034,2026-02-07,Madrid Retailers,2700.30,EUR,Europe
+TXN1035,2026-02-08,Cascade Outfitters,3900.00,USD,North America
+TXN1036,2026-02-09,Amazonia Agribusiness,10200.00,USD,Latin America
+TXN1037,2026-02-10,Manchester Freight,6100.80,GBP,Europe
+TXN1038,2026-02-11,Sydney Marine,9200.00,USD,Asia-Pacific
+TXN1039,2026-02-12,Bavaria Motors,18700.50,EUR,Europe
+TXN1038,2026-02-13,Pacific Enterprise,5500.00,USD,Asia-Pacific
+TXN1041,2026-02-14,Toronto Energy,4300.00,CAD,North America
+TXN1042,2026-02-15,Fuji Heavy Ind,910000.00,JPY,Asia-Pacific
+TXN1043,2026-02-16,Celtic Renewables,3100.00,GBP,Europe
+TXN1044,2026-02-17,Silicon Bay Inc,22000.00,USD,North America
+TXN1045,2026-02-18,Milan Fashion Hub,7600.40,EUR,Europe
+TXN1046,2026-02-19,Patagonia Eco,1800.00,USD,Latin America
+TXN1047,2026-02-20,Auckland Freight,5800.00,USD,Asia-Pacific
+TXN1048,2026-02-21,Geneva Pharma,16400.00,EUR,Europe
+TXN1049,2026-02-22,Quebec Paper Mills,3450.60,CAD,North America
+TXN1050,2026-02-23,Bristol BioTech,8200.00,GBP,Europe

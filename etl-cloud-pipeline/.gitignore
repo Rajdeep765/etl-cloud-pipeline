@@ -1,0 +1,28 @@
+# Sensitive environment configuration
+.env
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database storage files
+*.db
+
+# Generated report artifacts and chart visuals
+reports/*.png
+reports/*.html
+
+# Execution log files and folder
+logs/
+
+# Pytest testing cache and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
